@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-   <meta content="width=device-width, initial-scale=1.0" name="viewport"></meta>
+   <meta content="width=device-width, initial-scale=1.0" name="viewport">
    <title>Chat cafe Gc rules</title>
    <style>
        body {
